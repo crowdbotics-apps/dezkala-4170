@@ -1,0 +1,3 @@
+rootProject.name = 'dezkala_4170'
+
+include ':app'
